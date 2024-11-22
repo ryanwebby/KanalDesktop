@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Electron build files
+/dist/
+
+# Production build output
+/build/
+
+# Environment files
+.env
+
+# npm package lock files
+package-lock.json
+yarn.lock
+
+# Electron Builder configuration
+.squirrel/
+.idea/
+
+# VSCode settings
+.vscode/
+
+# macOS specific files
+*.swp
